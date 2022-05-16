@@ -22,5 +22,8 @@ public class Pessoa{
         this.telefone = telefone;
     }
    
+    publc Pessoa(){
+        
+    }
 
 }
